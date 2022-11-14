@@ -1,0 +1,16 @@
+.headline-container {
+    display: block;
+    text-align: start;
+    max-width: 400px
+}
+.headline-container > h1 {
+    font-size: 60px;
+}
+.headline-container > button {
+    all: unset;
+    background-color: white;
+    color: black;
+    padding: 15px 20px;
+    margin: 40px 0;
+    border-radius: 10px;
+}

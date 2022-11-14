@@ -1,0 +1,21 @@
+
+.card {
+    height: 70vh;
+    font-size: 18px;
+}
+
+.header-container {
+    background-color: #1e2333;
+    color: white;
+    padding: 20px 40px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.benefit-container {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-evenly;
+}
